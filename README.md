@@ -1,11 +1,10 @@
 # FluxEcoIliasCourseOrbitalApi
 The **FluxEcoIliasCourseOrbitalApi** class provides a simple interface for modifying courses in ILIAS. 
-It acts as a proxy between your application and the existing REST API by providing a set of convenient functions for 
+It acts as a proxy between your application and the **flux-ilias-rest-api** by providing a set of convenient functions for 
 modifying courses.
 
 ## Installation
 The FluxEcoIliasCourseOrbitalApi class requires PHP 8.2 or later and the flux-ilias-rest-api-client.
-and the fluxit/ili-rest-client package.
 
 To install the required dependencies, you can use the following command:
 
