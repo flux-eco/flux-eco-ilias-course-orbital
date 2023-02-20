@@ -5,6 +5,5 @@
 !app/
 app/*
 !app/bin/
-!app/libs/
 !app/src/
 !app/autoload.php
